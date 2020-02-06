@@ -12,3 +12,7 @@ Check Point script used to find, backup and archive all wildcard object files on
    ```
    chmod u+x /home/admin/ckpt_R77_backup_wildcard_objects.sh
    ```
+1. Run the script
+   ```
+   ./ckpt_R77_backup_wildcard_objects.sh
+   ```
